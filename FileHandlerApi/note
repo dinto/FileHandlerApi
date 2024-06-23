@@ -1,0 +1,31 @@
+=====================================
+Task:
+=====================================
+1)file upload & store file in local system 
+2)delete ,view files ,download in ui
+3)display pdf view in new window
+4)store data in database
+
+
+use : 
+frontend : angular
+backend: python (django restframework)
+design : bootstrap design 
+
+
+=====================================
+done:
+=====================================
+1)display list from django model in angular
+2)delete file from angular and delete in django
+3)when click view button in angular then it shows new window & open file from local 
+4)upload file from  UI(angular) and stored in local system folder(media) and also in django model
+5)database added in admin page
+
+============================================
+
+
+
+
+
+
