@@ -1,9 +1,10 @@
 <br>
 To install packages:
+<br>
 pip install -r requirements.txt
 <br>
 
-To run prject:
+To run project:
 <br>
 cd .\FileHandlerApi\
 <br>
